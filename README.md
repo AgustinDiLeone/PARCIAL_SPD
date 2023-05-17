@@ -1,13 +1,11 @@
 # PARCIAL SPD - AGUSTIN DI LEONE
-(ascensor.avif)
-
 
 ## Alumno:
 - Agustin Di Leone
 
 
 ## Proyecto: Montacarga funcional como maqueta para un hospital.
-![Tinkercad](./img/ContadorBinario.png)
+![Tinkercad](Di Leone - PARCIAL.png)
 
 
 ## Descripción
