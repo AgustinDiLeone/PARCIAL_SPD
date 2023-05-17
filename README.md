@@ -181,5 +181,13 @@ void mostrar_3()
 ## Montacargas: Diagrama esquematico del circuito
 ![Tinkercad](https://github.com/AgustinDiLeone/PARCIAL_SPD/blob/main/Img/Di%20Leone%20-%20PARCIAL.pdf)
 
+Componentes:
+1 Arduino Uno R3: Placa electronica.
+9 220 Ω Resistor: Resistencias para enviar la enegia deseada a los leds y al 7-segmentos.
+Cathode 7 Segment Display: Display donde se muestra en piso que esta el montacargas.
+3 Pushbutton: Se encargan de subir, bajar o detener el montacargas.
+1 Red LED: Se enciende para mostrar que el montacargas esta detenido.
+1 Green LED: Se enciende para mostrar que el montacargas esta en funcionamiento.
+
 ## Montacargas: Link al proyecto
 - [proyecto](https://www.tinkercad.com/things/ioNYFIwpfZo-di-leone-parcial/editel?sharecode=_cKTnzVTTVZnBbaxy1mXyRSWi7BOkBeHBpj7odi3OjM)
