@@ -1,18 +1,19 @@
-# Ejemplo Documentación 
-![Tinkercad](./img/ArduinoTinkercad.jpg)
+# PARCIAL SPD - AGUSTIN DI LEONE
+(ascensor.avif)
 
 
-## Integrantes 
-- Esteban M. Quiroz
-- Dario Cuda 
+## Alumno:
+- Agustin Di Leone
 
 
-## Proyecto: Contador binario.
+## Proyecto: Montacarga funcional como maqueta para un hospital.
 ![Tinkercad](./img/ContadorBinario.png)
 
 
 ## Descripción
-En este parrafo deberan describir que funcion cumple su proyecto. Que solucion esta ofreciendo.
+El objetivo es implementar un sistema que pueda recibir ordenes mediante pulsadores de subir, bajar o detener
+desde diferentes pisos y muestre el estado actual del montacargas en el display 7 segmentos y mediante el 
+monitor Serial.
 
 ## Función principal
 Esta funcion se encarga de encender y apagar los leds.
