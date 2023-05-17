@@ -5,7 +5,7 @@
 
 
 ## Proyecto: Montacarga funcional como maqueta para un hospital.
-![Tinkercad](Di Leone - PARCIAL.png)
+![Tinkercad](https://github.com/AgustinDiLeone/PARCIAL_SPD/blob/main/Img/Di%20Leone%20-%20PARCIAL.png)
 
 
 ## Descripción
