@@ -179,7 +179,7 @@ void mostrar_3()
 }
 ~~~
 ## Montacargas: Diagrama esquematico del circuito
-![Tinkercad](https://github.com/AgustinDiLeone/PARCIAL_SPD/blob/main/Img/Di%20Leone%20-%20PARCIAL.brd)
+(https://github.com/AgustinDiLeone/PARCIAL_SPD/blob/main/Img/Di%20Leone%20-%20PARCIAL.brd)
 
 ## Montacargas: Link al proyecto
 - [proyecto](https://www.tinkercad.com/things/ioNYFIwpfZo-di-leone-parcial/editel?sharecode=_cKTnzVTTVZnBbaxy1mXyRSWi7BOkBeHBpj7odi3OjM)
