@@ -178,6 +178,8 @@ void mostrar_3()
     
 }
 ~~~
+## Montacargas: Diagrama esquematico del circuito
+![Tinkercad]()
 
-## :Montacargas: Link al proyecto
+## Montacargas: Link al proyecto
 - [proyecto](https://www.tinkercad.com/things/ioNYFIwpfZo-di-leone-parcial/editel?sharecode=_cKTnzVTTVZnBbaxy1mXyRSWi7BOkBeHBpj7odi3OjM)
