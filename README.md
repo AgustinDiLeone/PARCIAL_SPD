@@ -100,6 +100,49 @@ void loop()
         tiempo = millis();
         piso = 3;
     }
+    
+    else if (contador == 4 && piso != 4)
+    {
+        mostrar_4();
+        Serial.println("Estas en el piso 4");
+        tiempo = millis();
+        piso = 4;
+    }
+    else if (contador == 5 && piso != 5)
+    {
+        mostrar_5();
+        Serial.println("Estas en el piso 5");
+        tiempo = millis();
+        piso = 5;
+    }
+    else if (contador == 6 && piso != 6)
+    {
+        mostrar_6();
+        Serial.println("Estas en el piso 6");
+        tiempo = millis();
+        piso = 6;
+    }
+    else if (contador == 7 && piso != 7)
+    {
+        mostrar_7();
+        Serial.println("Estas en el piso 7");
+        tiempo = millis();
+        piso = 7;
+    }
+    else if (contador == 8 && piso != 8)
+    {
+        mostrar_8();
+        Serial.println("Estas en el piso 8");
+        tiempo = millis();
+        piso = 8;
+    }
+    else if (contador == 9 && piso != 9)
+    {
+        mostrar_9();
+        Serial.println("Estas en el piso 9");
+        tiempo = millis();
+        piso = 9;
+    }
 }
 ~~~
 
@@ -142,7 +185,6 @@ void mostrar_0()
     encender_led(LED_E);
     encender_led(LED_F);
     apagar_led(LED_G);
-
 }
 void mostrar_1()
 {
@@ -153,7 +195,6 @@ void mostrar_1()
     apagar_led(LED_E);
     apagar_led(LED_F);
     apagar_led(LED_G);
-
 }
 void mostrar_2()
 {
@@ -164,7 +205,6 @@ void mostrar_2()
     encender_led(LED_E);
     apagar_led(LED_F);
     encender_led(LED_G);
-
 }
 void mostrar_3()
 {
@@ -177,6 +217,67 @@ void mostrar_3()
     encender_led(LED_G);
     
 }
+void mostrar_4()
+{
+    apagar_led(LED_A);
+    encender_led(LED_B);
+    encender_led(LED_C);
+    apagar_led(LED_D);
+    apagar_led(LED_E);
+    encender_led(LED_F);
+    encender_led(LED_G);
+}
+void mostrar_5()
+{
+    encender_led(LED_A);
+    apagar_led(LED_B);
+    encender_led(LED_C);
+    encender_led(LED_D);
+    apagar_led(LED_E);
+    encender_led(LED_F);
+    encender_led(LED_G);
+}
+void mostrar_6()
+{
+    encender_led(LED_A);
+    apagar_led(LED_B);
+    encender_led(LED_C);
+    encender_led(LED_D);
+    encender_led(LED_E);
+    encender_led(LED_F);
+    encender_led(LED_G);
+}
+void mostrar_7()
+{
+    encender_led(LED_A);
+    encender_led(LED_B);
+    encender_led(LED_C);
+    apagar_led(LED_D);
+    apagar_led(LED_E);
+    apagar_led(LED_F);
+    apagar_led(LED_G);
+}
+void mostrar_8()
+{
+    encender_led(LED_A);
+    encender_led(LED_B);
+    encender_led(LED_C);
+    encender_led(LED_D);
+    encender_led(LED_E);
+    encender_led(LED_F);
+    encender_led(LED_G);
+}
+void mostrar_9()
+{
+    encender_led(LED_A);
+    encender_led(LED_B);
+    encender_led(LED_C);
+    encender_led(LED_D);
+    apagar_led(LED_E);
+    encender_led(LED_F);
+    encender_led(LED_G);
+}
+
 ~~~
 ## Montacargas: Diagrama esquematico del circuito
 ![Tinkercad](https://github.com/AgustinDiLeone/PARCIAL_SPD/blob/main/Img/Di%20Leone%20-%20PARCIAL.pdf)
